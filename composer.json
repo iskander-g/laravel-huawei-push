@@ -1,11 +1,11 @@
 {
-    "name": "al-one/laravel-huawei-push",
+    "name": "davidlowcj/laravel-huawei-push",
     "description": "Huawei Push For Laravel Notifications",
     "keywords": ["laravel", "illuminate", "notifications", "huawei", "huawei-push"],
     "authors": [
         {
-            "name": "Alone",
-            "email": "hi@anlo.ng"
+            "name": "David Low",
+            "email": "davidlowcj@gmail.com"
         }
     ],
     "require": {
@@ -18,13 +18,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Alone\\LaravelHuaweiPush\\": "src/"
+            "Davidlowcj\\LaravelHuaweiPush\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Alone\\LaravelHuaweiPush\\ServiceProvider"
+                "Davidlowcj\\LaravelHuaweiPush\\ServiceProvider"
             ]
         }
     },

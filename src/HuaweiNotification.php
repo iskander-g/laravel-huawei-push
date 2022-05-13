@@ -1,6 +1,6 @@
 <?php
 
-namespace Alone\LaravelHuaweiPush;
+namespace Davidlowcj\LaravelHuaweiPush;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Notifications\Notifiable;

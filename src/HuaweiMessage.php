@@ -1,6 +1,6 @@
 <?php
 
-namespace Alone\LaravelHuaweiPush;
+namespace Davidlowcj\LaravelHuaweiPush;
 
 /**
  * @mixin Huawei\Message

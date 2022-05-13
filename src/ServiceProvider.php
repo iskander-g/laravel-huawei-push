@@ -1,6 +1,6 @@
 <?php
 
-namespace Alone\LaravelHuaweiPush;
+namespace Davidlowcj\LaravelHuaweiPush;
 
 use Illuminate\Notifications;
 use Illuminate\Support\ServiceProvider as BaseServiceProvider;
