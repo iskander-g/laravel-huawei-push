@@ -1,13 +1,9 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: d00355631
- * Date: 2019/11/5
- * Time: 17:48
- */
+
 namespace Davidlowcj\LaravelHuaweiPush\Huawei;
 
 use Exception;
+
 class AndroidNotification
 {
     protected $title;
@@ -145,5 +141,4 @@ class AndroidNotification
             throw new Exception("type of notify_id is wrong.");
         }
     }
-
 }

@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: d00355631
- * Date: 2019/11/5
- * Time: 19:17
- */
+
 namespace Davidlowcj\LaravelHuaweiPush\Huawei;
 
 class Application
@@ -105,6 +100,5 @@ class Application
 
         //eg: {"code":"80000000","msg":"Success","requestId":"157278422841836431010901"}
         return $result;
-}
-
+    }
 }

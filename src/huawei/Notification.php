@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: d00355631
- * Date: 2019/11/5
- * Time: 18:57
- */
+
 namespace Davidlowcj\LaravelHuaweiPush\Huawei;
 
 class Notification

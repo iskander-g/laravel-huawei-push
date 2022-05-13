@@ -1,10 +1,5 @@
 <?php
-/**
-* Created by PhpStorm.
- * User: d00355631
-* Date: 2019/11/6
-* Time: 9:15
-*/
+
 namespace Davidlowcj\LaravelHuaweiPush\Huawei;
 
 use Exception;
@@ -74,5 +69,4 @@ class AndroidConfig
             throw new Exception("type of fast_app_target is wrong.");
         }
     }
-
 }
